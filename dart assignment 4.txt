@@ -1,0 +1,44 @@
+// import 'dart:io';
+
+// void main(List<String> args) {
+                              //Question 1
+  // int i, f=1;
+
+  // print("Enter a number");
+  // int? num1 = int.parse(stdin.readLineSync()!);
+
+  // for(i = 1; i<= num1;i++)
+  // f = f*i;
+  // print("The factorial of ${num1} is ${f}");
+
+                          //  Question 2
+    // int i,j;
+
+    // print("Enter Number of rows");
+    // int rows = int.parse(stdin.readLineSync()!);
+
+    // for(i = 1; i<=rows; i++)
+    // {
+    //   for(j = 1; j<=i; j++)
+    //   print("$i");
+      
+      
+    // }
+
+                              //Question 3
+
+  //  print("Enter number: ");
+  // int n = int.parse(stdin.readLineSync()!);
+  // for (var i = 1; i <= n; i++) {
+  //   for (var j = 1; j <= i; j++) {
+  //     stdout.write(i);
+  //   }
+  //   print(" ");
+  // }
+
+
+
+
+
+    
+//}
